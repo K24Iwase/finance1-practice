@@ -23,6 +23,8 @@ $$\text{消費者転嫁率} = \frac{\varepsilon^s}{\varepsilon^d + \varepsilon^s
 
 ---
 
+<a name="sozei-p24"></a>
+
 ## p24（従量税・従価税の完全計算）★★★
 
 ### 問題概要
@@ -70,6 +72,8 @@ $$B(x) = 36x - \frac{2}{3}x^2,\quad C(x) = \frac{1}{3}x^2$$
 
 ---
 
+<a name="sozei-p26"></a>
+
 ## p26（需要供給曲線への課税）★★★
 
 ### 問題概要
@@ -103,6 +107,8 @@ $$120 - \frac{1}{2}x = (1+t)x \Rightarrow x = \frac{120}{\frac{3}{2}+t}$$
 
 ---
 
+<a name="sozei-p39"></a>
+
 ## p39（2市場・弾力性と税転嫁）★★★
 
 ### 問題概要
@@ -130,6 +136,8 @@ $$\text{市場B} = \frac{1}{1/3+1} = \frac{3}{4} = \boxed{75\%}$$
 > $\varepsilon^d$ が小さい市場Aほど消費者が多く負担する。
 
 ---
+
+<a name="sozei-p40"></a>
 
 ## p40（弾力性・税転嫁の数値計算）★★★
 

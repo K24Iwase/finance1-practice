@@ -20,6 +20,8 @@
 
 ---
 
+<a name="kokyozai-p28"></a>
+
 ## p28（私的財 vs 公共財）★★★
 
 ### 問題概要
@@ -62,6 +64,8 @@ $$\sum_{i=1}^n MV_i = MC \quad\Leftrightarrow\quad \sum_{i=1}^n MRS_i = MRT$$
 
 ---
 
+<a name="lindahl-p15"></a>
+
 ## p15（リンダール均衡・線形）★★★
 
 ### 問題概要
@@ -100,6 +104,8 @@ $$\therefore MV^a + MV^b = MC \quad\text{（サムエルソン条件）}\quad\ch
 
 ---
 
+<a name="lindahl-p16"></a>
+
 ## p16（生産可能曲線・パレート最適）★★☆
 
 ### 問題概要
@@ -120,6 +126,8 @@ $$\frac{x^A+x^B}{Y} = 5 \Rightarrow X = 5Y$$
 生産可能曲線に代入：$5Y+5Y=150 \Rightarrow \boxed{Y^* = 15}$
 
 ---
+
+<a name="lindahl-p18"></a>
 
 ## p18（リンダール均衡・非線形費用）★★☆
 

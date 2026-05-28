@@ -4,6 +4,8 @@
 
 ---
 
+<a name="kazei-p21"></a>
+
 ## p21（所得税 vs 消費税の効用比較）★★★
 
 ### 問題概要
@@ -38,6 +40,8 @@ $$\frac{60\tau_C}{1+\tau_C} = 6 \Rightarrow \tau_C = \frac{1}{9} \Rightarrow x =
 > **結論**：同額の税収では所得税も消費税も効用水準が等しくなる（等価性）。
 
 ---
+
+<a name="kazei-p23"></a>
 
 ## p23（労働所得税と死荷重）★★★
 
@@ -93,6 +97,8 @@ $$\frac{DWL_{20\%}}{DWL_{10\%}} = \left(\frac{0.2}{0.1}\right)^2 = \boxed{4\text
 
 ---
 
+<a name="kazei-p48"></a>
+
 ## p48（独占市場・ラーナー独占度）★★★
 
 ### 問題概要
@@ -117,6 +123,8 @@ $$\varepsilon = -\frac{p^*}{x^*}\cdot\frac{dx}{dp} = -\frac{60}{20}\times\left(-
 $$\frac{1}{\varepsilon} = \frac{2}{3} = L \quad\checkmark$$
 
 ---
+
+<a name="kazei-p49"></a>
 
 ## p49（独占・死荷重）★★☆
 

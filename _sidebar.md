@@ -1,5 +1,6 @@
-- [トップ・試験概要](README.md)
-- [用語集](keywords.md)
+- [🏠 トップ・試験概要](README.md)
+- [📐 数学の基礎](math_basics.md)
+- [📖 用語集](keywords.md)
 
 **講義別まとめ**
 
